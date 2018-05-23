@@ -1,0 +1,149 @@
+
+body{
+  padding-top: 70px;
+  background-color: #FFFFFF;
+  font-family: 'Nunito', sans-serif;
+}
+
+
+
+
+p {
+  font-size: 1.1rem;
+}
+
+
+
+      .bg-light {
+        background-color: #fff !important;
+      }
+
+      .nav-item {
+        color: #000 !important;
+        font-family: 'Nunito', sans-serif;
+      }
+
+
+      .navbar-light .navbar-nav .active>.nav-link {
+        color: #E8A832;
+      }
+
+      .navbar-light .navbar-nav .nav-link {
+        color: #000;
+      }
+
+      .navbar-nav > li {
+        padding-left: 8px;
+        padding-right: 8px;
+
+      }
+
+      element.style {
+        width: 90px;
+        padding-bottom: 0px;
+        padding-left: 40px; 
+        padding-right: 60px; 
+        padding-top: 10px; 
+        padding-bottom: 20px;
+      }
+
+
+
+      .padding-0 {
+        padding-right: 0px;
+        padding-left:0px;
+      }
+
+
+      .img-container {
+        position: relative;
+        display: inline-block;
+        height: 25em;
+        width: 100%;
+      }
+
+
+
+      .img-container .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: #E8A832;
+        opacity: 0;
+        transition: 0.2s ease;
+      }
+
+      .img-container:hover .overlay {
+        opacity: 1;
+      }
+
+      .overlay span {
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+      }
+
+
+      .jumbotron {
+        width: 100%;
+        color: #FFFFFF;
+        padding: 1.5em;
+        min-height: 25em;
+        margin: 0;
+      }
+
+       .jumbotron .textwrap {
+        padding-top: 20vh;
+        text-align: center;
+       }
+
+       .bannertext {
+        padding-top: 25%;
+        padding-bottom: 25%;
+      
+        text-align: center;
+       }
+
+       .text {
+        /*padding-top: 4em;
+        padding-bottom:2em;*/
+       /* padding-left: 1em;
+        padding-right: 1em;
+        margin: 4em;*/
+        padding-top: 5vw;
+/**/    padding-left: 15vw;
+        padding-right:15vw;
+/*        width: 50vw;
+*/
+       }
+
+       .img-full {
+        width: 80vw;
+       }
+
+       .aboutimg {
+        width: 80vw;
+        margin-left:15vw;
+        margin-right: 5vw;
+        height: auto;
+       }
+
+       .abouttext {
+        padding-top: 5vh;
+        padding-left: 5vw;
+        padding-right: 10vw;
+       }
+
+
+      footer {
+        text-align: center;
+        position: relative;
+        padding-top: 10em;
+      }
