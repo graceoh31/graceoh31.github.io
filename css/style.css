@@ -11,34 +11,35 @@ body{
 p {
   font-size: 1.1rem;
 }
- 
 
 
 
 
-      .bg-light {
-        background-color: #fff !important;
-      }
-
-      .nav-item {
-        color: #000 !important;
-        font-family: 'Nunito', sans-serif;
-      }
 
 
-      .navbar-light .navbar-nav .active>.nav-link {
-        color: #E8A832;
-      }
+.bg-light {
+  background-color: #fff !important;
+}
 
-      .navbar-light .navbar-nav .nav-link {
-        color: #000;
-      }
+.nav-item {
+  color: #000 !important;
+  font-family: 'Nunito', sans-serif;
+}
 
-      .navbar-nav > li {
-        padding-left: 8px;
-        padding-right: 8px;
 
-      }
+.navbar-light .navbar-nav .active>.nav-link {
+  color: #E8A832;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #000;
+}
+
+.navbar-nav > li {
+  padding-left: 8px;
+  padding-right: 8px;
+
+}
 
 /*      element.style {
         width: 90px;
@@ -48,9 +49,15 @@ p {
         padding-top: 10px; 
         padding-bottom: 20px;
       }
-*/
 
 
+      */
+
+      .top-padding {
+        padding-top: 5rem!important;
+      }
+
+      
       .padding-0 {
         padding-right: 0px;
         padding-left:0px;
@@ -101,51 +108,52 @@ p {
         margin: 0;
       }
 
-       .jumbotron .textwrap {
+      .jumbotron .textwrap {
         padding-top: 20vh;
         text-align: center;
-       }
+      }
 
-       .bannertext {
+      .bannertext {
         padding-top: 25%;
         padding-bottom: 25%;
-      
-        text-align: center;
-       }
 
-       .text {
+        text-align: center;
+      }
+
+      .text {
         /*padding-top: 4em;
         padding-bottom:2em;*/
        /* padding-left: 1em;
         padding-right: 1em;
         margin: 4em;*/
         padding-top: 5vw;
-/**/    padding-left: 15vw;
+        /**/    padding-left: 15vw;
         padding-right:15vw;
 /*        width: 50vw;
 */
-       }
+}
 
-       .img-full {
-        width: 80vw;
-       }
+.img-full {
+  width: 80vw;
+}
 
-       .aboutimg {
-        width: 80vw;
-        margin-left:15vw;
-        margin-right: 5vw;
-        height: auto;
-       }
+.aboutimg {
+  width: 80vw;
+  margin-left:15vw;
+  margin-right: 5vw;
+  height: auto;
+}
 
-       .abouttext {
-        padding-top: 5vh;
-        padding-left: 5vw;
-        padding-right: 10vw;
-       }
+.abouttext {
+  padding-top: 5vh;
+  padding-left: 5vw;
+  padding-right: 10vw;
+}
 
 
-      footer {
-        text-align: center;
-        position: relative;
-        padding-top: 10em;
-      }
+
+footer {
+  text-align: center;
+  position: relative;
+  padding-top: 10em;
+}

@@ -23,9 +23,7 @@ body {
     color: #999;
 }
 
-.tz-gallery {
-    padding: 40px;
-}
+
 
 /* Override bootstrap column paddings */
 .tz-gallery .row > div {
