@@ -126,10 +126,12 @@ p {
        /* padding-left: 1em;
         padding-right: 1em;
         margin: 4em;*/
-        padding-top: 5vw;
-        /**/    padding-left: 15vw;
-        padding-right:15vw;
+        margin-top: 5vw;
+        /**/    margin-left: 15vw;
+        margin-right:15vw;
+        overflow:hidden;
 /*        width: 50vw;
+
 */
 }
 
