@@ -127,9 +127,9 @@ p {
         padding-right: 1em;
         margin: 4em;*/
         margin-top: 5vw;
-        /**/    margin-left: 15vw;
+        margin-left: 15vw;
         margin-right:15vw;
-        overflow:hidden;
+        overflow: hidden;
 /*        width: 50vw;
 
 */
@@ -139,18 +139,7 @@ p {
   width: 80vw;
 }
 
-.aboutimg {
-  width: 80vw;
-  margin-left:15vw;
-  margin-right: 5vw;
-  height: auto;
-}
 
-.abouttext {
-  padding-top: 5vh;
-  padding-left: 5vw;
-  padding-right: 10vw;
-}
 
 
 
