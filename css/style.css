@@ -13,7 +13,11 @@ p {
 }
 
 
+.padding-right {
+  padding-left: 5em;
+  padding-right: 6em;
 
+}
 
 
 .bg-light {
