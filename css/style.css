@@ -12,7 +12,9 @@ p {
   font-size: 1.1rem;
 }
 
-
+.px-6{
+  padding-right: ($spacer * 5) !important;
+}
 
 
 
